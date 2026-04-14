@@ -1,13 +1,13 @@
 <h1 align="center">Hey <img src="https://raw.githubusercontent.com/sindresorhus/sindresorhus/refs/heads/main/unicorn.gif" height="30px" width="30px"> I'm young_vine_909</h1>
 <h3 align="center">Student</h3>
 
+<img src="https://i.pinimg.com/originals/62/12/48/6212485181ca055f760855d98d3ee4bc.gif" alt="Banner" width="100%" />
+
 <p align="center">
   <a href="https://komarev.com/ghpvc/?username=AtharvOps">
     <img src="https://komarev.com/ghpvc/?username=AtharvOps&label=Profile%20views&color=00FFFF&style=flat-square" alt="AtharvOps's profile views" />
   </a>
 </p>
-
-<img src="https://i.pinimg.com/originals/62/12/48/6212485181ca055f760855d98d3ee4bc.gif" alt="Banner" width="100%" />
 
 ## 📌 About Me
 - 🌱 I’m currently learning Data Structures & Web Development
